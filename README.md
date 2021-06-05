@@ -1,4 +1,4 @@
-# Fortran non English resources
+# Fortran non-English resources
 
 # Spanish
 
